@@ -1,0 +1,3 @@
+﻿  process1.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(703,5): error MSB6006: "CL.exe" exited with code 2.
+C:\huyle1\projects\shared_memory\shared_memory\process1\src\process1.c(4,9): fatal  error C1083: Cannot open include file: 'sys/ipc.h': No such file or directory
